@@ -6,4 +6,4 @@ El dataset está disponible en Google Drive:
 
 Imagen: 
 ## Vista previa del proyecto
-![Análisis de Delitos](mapa inetractivo1.png) 
+![Análisis de Delitos](mapa_inetractivo1.png) 
