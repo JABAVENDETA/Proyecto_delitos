@@ -24,7 +24,7 @@ El análisis sigue una estructura profesional de ciencia de datos orientada a la
 
 
 ## Acceso al proyecto
-[![Abrir en Colab](https://colab.research.google.com/drive/19yfQmaxqShAU6KJTKyvukhiolWnh3hkQ#scrollTo=PIn1ewwtJZPH)
+[![Abrir en Colab] LInk: https://colab.research.google.com/drive/19yfQmaxqShAU6KJTKyvukhiolWnh3hkQ#scrollTo=PIn1ewwtJZPH
 Link del archivo csv: https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Drabo6dp9z3zQVsmR 
 
 ## Datos
