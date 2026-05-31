@@ -5,4 +5,5 @@ El dataset está disponible en Google Drive:
 [Link del CSV]([aquí pega el link de tu Drive](https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Drabo6dp9z3zQVsmR))
 
 Imagen: 
-[Descripción de la imagen](mapa inetractivo1.png) 
+## Vista previa del proyecto
+![Análisis de Delitos](mapa inetractivo1.png) 
